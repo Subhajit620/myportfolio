@@ -17,7 +17,7 @@ const projects = [
     title: "Portfolio Website",
     desc: "Personal developer portfolio with modern UI and animations.",
     tech: "React, Tailwind CSS",
-    github: "https://github.com/SonaliBistu/Myportfolio",
+    github: "https://github.com/Subhajit620/myportfolio",
     image: project2,
   },
 ];
