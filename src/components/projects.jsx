@@ -9,7 +9,7 @@ const projects = [
     title: "Smart Fleet Tracking System",
     desc: "Integrated logistics + fleet monitoring system with real-time tracking.",
     tech: "HTML, CSS, JS, PHP, DevOps",
-    github: "https://github.com/Subhajit620/car",
+    github: "https://github.com/Subhajit620/car-tracking-final-16.1.26",
     image: project1,
   },
   {
